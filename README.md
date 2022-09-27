@@ -24,3 +24,7 @@ Aplicamos Get Dummies (creamos 90 columnas).
 -------------------------------------------------------------------------------------------------------------------------
 Creamos una función para aplicar Machine Learning que nos inicializa, entrena y calcula errores de 18 modelos: 'LinReg', 'Lasso', 'Ridge', 'Elastic', 'LogReg', 'RFR', 'ETR', 'SVR', 'CTR', 'XGBR', 'GBR', 'LGBMR', 'GNB', 'RegBR', 'KNN', 'Cat', 'SGD', 'KerRid'.
 -------------------------------------------------------------------------------------------------------------------------
+Detectamos que el modelo que minimiza el error es KernelRidge.
+-------------------------------------------------------------------------------------------------------------------------
+Calculamos predicciones con KernelRidge, creamos archivo de sample y subimos los datos.
+-------------------------------------------------------------------------------------------------------------------------
