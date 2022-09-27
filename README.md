@@ -9,7 +9,11 @@ Eliminamos Outliers
 Concatenamos Data-Test para transformaciones de datos
 -------------------------------------------------------------------------------------------------------
 Recategorizamos job_title agrupando los trabajos en:
+
 -Data Analyst
+
 -Data Scientist
+
 -Data Engineer
+
 -------------------------------------------------------------------------------------------------------
