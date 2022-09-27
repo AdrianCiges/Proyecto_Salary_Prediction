@@ -1,5 +1,5 @@
 # Proyecto_Salary_Prediction
--------------------------------------------------------------------------------------------------------------------------
+
 En este repositoria se añadirán las actualizaciones del proyecto de predicción de salarios.
 -------------------------------------------------------------------------------------------------------------------------
 Cargamos Data y Test.
